@@ -1,0 +1,10 @@
+{"temperature" : "1", "pictrue" : "first", "scripts": [
+    {"type" : "script", "person": "Anchor", "script": "평균 기온이 상승함에 따라"},
+    {"type" : "script", "person": "Anchor", "script": "많은 생물들도 죽어가고 있습니다."},
+    {"type" : "script", "person": "Anchor", "script": "이에 대한 해결책으로는"},
+    {"type" : "script", "person": "Anchor", "script": "식생활 개선, 재생에너지 상용화, 에너지 효율증가 등등"},
+    {"type": "script", "person": "Anchor", "script": "사람들의 관심과 노력으로"},
+    {"type": "script", "person": "Anchor", "script": "지구의 온도를 줄여야 합니다."},
+    {"type": "script", "person": "Dukbae", "script": "(시간을 확인한다)"},
+    {"type": "jump", "jump": "출근_걷기"}
+]}

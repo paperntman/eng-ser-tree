@@ -1,0 +1,5 @@
+{"temperature" : "1", "pictrue" : "walking", "scripts": [
+    {"type": "script", "person": "Citizen1", "script": "오늘 날씨 좋네"},
+    {"type": "script", "person": "Citizen2", "script": "그러게나 말이다."},
+    {"type": "jump", "jump": "회사"}
+]}

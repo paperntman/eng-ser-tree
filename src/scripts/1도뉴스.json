@@ -1,0 +1,6 @@
+{"temperature" : "1", "pictrue" : "first", "scripts": [
+    {"type" : "script", "person" : "Anchor", "script": "세계의 연 평균이 1도 상승하였습니다."},
+    {"type" : "script", "person" : "Anchor", "script": "지구온난화로 인한 기후변화에"},
+    {"type" : "script", "person": "Anchor", "script": "벵골만 등의 여러 나라들이 침수되고 있습니다."},
+    {"type" : "dicision", "options": [{"name": "더 듣는다", "jump" : "1도뉴스_2"}, {"name": "별 일 있겠어? TV를 끄고 출근한다.", "jump": "출근_자동차"}]}
+]}
